@@ -2,22 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb269eb0-0a01-44a4-8ce3-6c726e7324da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controllers/MainController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/factories/SimulatorFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/ElevatorMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Simulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Building.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Elevator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/MovingElevator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/MovingObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/MovingPerson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/strategies/ElevatorStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/strategies/elevators/Linear.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../UsersProfile/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UsersProfile/src/main/java/UsersProfileService.java" afterPath="$PROJECT_DIR$/../UsersProfile/src/main/java/UsersProfileService.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/artifacts/UsersProfile_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/artifacts/UsersProfile_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/dataSources.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/dataSources/7bac4500-5764-47f9-ad72-fb3e65755f27.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Hibernate_5_2_3_5_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/JPA_2_0_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__asm_asm_all_3_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_google_maps_google_maps_services_0_1_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_sun_jersey_jersey_bundle_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__joda_time_joda_time_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__org_json_json_20140107.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/javax_json_processing_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/libraries/javax_transaction_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/UsersProfile.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/cdi-api-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/classmate-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/el-api-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/hibernate-core-5.2.3.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/jandex-2.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/javassist-3.20.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/javax.inject-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/javax.json.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/javax.persistence.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/javax.transaction-api.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/lib/jsr250-api-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/hibernate.cfg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/main/java/UserProfile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/main/java/UsersProfileService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/main/resources/UsersDataService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/src/main/resources/UsersEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/UsersDataService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/UsersEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/main/java/UserProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/main/java/UsersProfileService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/main/java/UsersProfileService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/main/resources/UsersDataService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/classes/main/resources/UsersEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/asm-all-3.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/google-maps-services-0.1.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/gson-2.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-jaxrs-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jackson-xc-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.3-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jersey-bundle-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jersey-core-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jersey-json-1.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jersey-server-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jettison-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/joda-time-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/json-20140107.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/jsr311-api-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/okhttp-2.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/okio-1.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/stax-api-1.0-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/lib/stax-api-1.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/UsersProfile-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/UsersDataService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/UsersEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/main/java/UserProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/main/java/UsersProfileService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/main/java/UsersProfileService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/main/resources/UsersDataService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/target/classes/main/resources/UsersEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../UsersProfile/web/index.jsp" afterPath="" />
     </list>
     <ignored path="Elevator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -768,12 +863,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
