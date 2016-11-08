@@ -16,6 +16,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.Future;
 
 /**
  * Created by sonia on 10/31/16.
@@ -58,7 +59,7 @@ public class UsersProfileService {
         }
 
         // return HTTP response 200 in case of success
-        return Response.status(201).build();
+        return Response.status(202).entity().build();
     }
 
     @GET
